@@ -1,0 +1,937 @@
+Crustaceans
+
+82
+
+caramote prawn
+
+Penaeus kerathurus
+
+Da
+
+reje
+
+Du
+
+garnaal
+
+F
+
+caramote
+
+Ge
+
+Garnele, Krabbe
+
+Gr
+
+garída
+
+I
+
+mazzancolla
+
+N
+
+reke
+
+P
+
+camarão
+
+S
+
+langostino
+
+83
+
+crawfish* - also called spiny lobster*, rock lobster*
+
+Palinurus vulgaris
+
+Da
+
+languster
+
+Du
+
+langoesten
+
+F
+
+langouste
+
+Ge
+
+Languste
+
+Gr
+
+astakós
+
+I
+
+aragosta
+
+N
+
+languster
+
+P
+
+lagosta
+
+S
+
+langosta
+
+84
+
+crayfish*
+
+Astacus astacus,
+Astacus fluviatilis
+
+Da
+
+krebs, flodkrebs
+
+Du
+
+rivierkreeft, zoetwaterkreeft
+
+F
+
+écrevisse
+
+Ge
+
+Edelkrebs, Flusskrebs
+
+Gr
+
+karavída
+
+I
+
+gambero di fiume
+
+N
+
+ferskvannskreps
+
+P
+
+lagostim do rio
+
+S
+
+cangrejo de rio
+
+85
+
+edible crab - also called crab*
+
+Cancer pagurus
+
+Da
+
+taskekrabbe
+
+Du
+
+noordzeekrab, hoofdkrab
+
+F
+
+tourteau, crabe
+
+Ge
+
+Taschenkrebs
+
+Gr
+
+-
+
+I
+
+granciporro
+
+N
+
+krabbe, taskekrabbe
+
+P
+
+sapateira
+
+S
+
+cangrejo
+
+86
+
+European lobster - also called lobster*
+
+Homarus gammarus, Homarus vulgaris
+
+Da
+
+hummer
+
+Du
+
+kreeft, zeekreeft
+
+F
+
+homard européen
+
+Ge
+
+Hummer
+
+Gr
+
+astakós
+
+I
+
+astice
+
+N
+
+hummer
+
+P
+
+lavagante
+
+S
+
+bogavante
+
+87
+
+Norway lobster* - also called scampi* Dublin Bay prawn*, langoustine
+
+Nephrops norvegicus
+
+Da
+
+jomfruhummer, dybvandshummer
+
+Du
+
+langoestine, noorse kreeft
+
+F
+
+langoustine
+
+Ge
+
+Kaisergranat, Norwegischer Schlankhummer
+
+Gr
+
+karavída
+
+I
+
+scampo
+
+N
+
+sjøkreps, bokstavhummer
+
+P
+
+lagostim
+
+S
+
+cigala, maganto
+
+88
+
+prawn* - also called shrimp*; particular species are named deep-water prawn, brown shrimp*, pink shrimp*
+
+Crangon spp
+† Pandalus spp
+
+Da
+
+reje
+
+Du
+
+garnaal
+
+F
+
+crevette
+
+Ge
+
+Garnele, Krabbe
+
+Gr
+
+garída
+
+I
+
+gambero, gamberello
+
+N
+
+reke
+
+P
+
+camarão
+
+S
+
+quisquilla, camarón
+
+89
+
+spider crab - also called spiny crab, crab*
+
+Maia squinado
+
+Da
+
+troldkrabbe
+
+Du
+
+spinkrab
+
+F
+
+araignée de mer
+
+Ge
+
+Seespinne
+
+Gr
+
+kavouromána
+
+I
+
+grancevola
+
+N
+
+-
+
+P
+
+santola
+
+S
+
+centolla
+
+90
+
+swimming crab - also called velvet crab, crab*
+
+Portunus puber, Liocarcinus puber
+
+Da
+
+svømmekrabbe
+
+Du
+
+fluwelen zwemcrab
+
+F
+
+étrille
+
+Ge
+
+Schwimmkrabbe
+
+Gr
+
+siderokávouras
+
+I
+
+granchio di rena
+
+N
+
+-
+
+P
+
+-
+
+S
+
+nécora
+
+91
+
+clam* - also called quahog, hard shell clam*
+
+Mercenaria mercenaria, Venus mercenaria
+
+Da
+
+sandmusling
+
+Du
+
+strandgaper
+
+F
+
+praire
+
+Ge
+
+Sandklaffmuschel
+
+Gr
+
+achiváda
+
+I
+
+vongole
+
+N
+
+sandskjell
+
+P
+
+faca
+
+S
+
+almeja
+
+92
+
+cockle*
+
+Cardium edule, Cerastoderma edule
+
+Da
+
+hjertemusling
+
+Du
+
+kokhaan, kokkel
+
+F
+
+coque
+
+Ge
+
+Herzmuschel
+
+Gr
+
+kidónia
+
+I
+
+cuore edule
+
+N
+
+hjerteskjell
+
+P
+
+berbigão
+
+S
+
+berberecho, croque
+
+93
+
+cuttlefish
+
+Sepia spp
+† Sepiola spp
+
+Da
+
+blaeksprutte
+
+Du
+
+inktvis
+
+F
+
+sèche
+
+Ge
+
+Sepia
+
+Gr
+
+soupiá
+
+I
+
+seppia, seppiola
+
+N
+
+blekksprut
+
+P
+
+choco
+
+S
+
+jibia, sepia
+
+94
+
+flying squid
+
+Todarodes sagittatus
+
+Da
+
+blaeksprutte
+
+Du
+
+-
+
+F
+
+calmar, toutenon
+
+Ge
+
+Pfeilkalmar
+
+Gr
+
+thrápsalo
+
+I
+
+totano
+
+N
+
+akkar
+
+P
+
+pota
+
+S
+
+volador, tota
+
+95
+
+a) mussel* - also called blue mussel
+b) mediterranean mussel
+
+a) Mytilus edulis
+b) Mytilus galloprovincialis
+
+Da
+
+blåmusling
+
+Du
+
+mossel
+
+F
+
+moule
+
+Ge
+
+Miesmuschel
+
+Gr
+
+mýdi
+
+I
+
+mitilo
+
+N
+
+blåskjell
+
+P
+
+mexilhão
+
+S
+
+mejillón
+
+96
+
+octopus
+
+
+
+
+
+
+
+Octopus spp
+
+Da
+
+blaeksprutte
+
+Du
+
+kraak, inktvis
+
+F
+
+poulpe
+
+Ge
+
+Krake, Tintenfisch
+
+Gr
+
+octapódi, alidóna
+
+I
+
+polpo di scoglio
+
+N
+
+blekksprut
+
+P
+
+polvo
+
+S
+
+pulpo
+
+97
+
+oyster* - also called Portuguese oyster*, Pacific oyster*, native oyster*
+
+Crassostrea spp
+† Ostrea spp
+
+Da
+
+østers
+
+Du
+
+oester
+
+F
+
+huître
+
+Ge
+
+Auster
+
+Gr
+
+óstrea
+
+I
+
+ostrica
+
+N
+
+østers
+
+P
+
+ostra
+
+S
+
+ostra, ostión
+
+98
+
+queen scallop* - also called queen*, scallop*
+
+Chlamys opercularis
+
+Da
+
+kammusling
+
+Du
+
+kammossel, wijde mantel
+
+F
+
+vanneau
+
+Ge
+
+Kamm-Muschel
+
+Gr
+
+-
+
+I
+
+pettine
+
+N
+
+haneskjell
+
+P
+
+vieira
+
+S
+
+volandeira
+
+99
+
+razor clam* - also called razor shell, clam*
+
+Solen marginatus
+
+Da
+
+knivmusling
+
+Du
+
+scheermes, meerschede
+
+F
+
+couteau
+
+Ge
+
+Meerscheide, Scheiden-Muschel
+
+Gr
+
+solína
+
+I
+
+cannolicchío
+
+N
+
+knivskjell
+
+P
+
+faca, longueirão
+
+S
+
+longeirón, muergo
+
+100
+
+scallop* - also called escallop
+
+Pecten maximus
+
+Da
+
+kammusling
+
+Du
+
+grote mantel, St. Jacobsschelp
+
+F
+
+coquille St. Jacques
+
+Ge
+
+Kamm-Muschel, Pilger-Muschel
+
+Gr
+
+cténi
+
+I
+
+ventaglio, pettine maggiore
+
+N
+
+kamskjell
+
+P
+
+vieira
+
+S
+
+vieira
+
+101
+
+squid
+
+Loligo spp
+
+Da
+
+blaeksprutte
+
+Du
+
+inktvis, pijiinktvis
+
+F
+
+calmar, encornet
+
+Ge
+
+Kalmar
+
+Gr
+
+kalamári, téftis
+
+I
+
+calamaro
+
+N
+
+blekksprut
+
+P
+
+lula
+
+S
+
+calamar
+
+102
+
+whelk*
+
+Buccinum undatum
+
+Da
+
+konksnegl, konk
+
+Du
+
+wulk
+
+F
+
+buccin
+
+Ge
+
+Wellhornschnecke
+
+Gr
+
+bouroú
+
+I
+
+buccina
+
+N
+
+kongsnegl
+
+P
+
+búzio
+
+S
+
+bocina
+
+103
+
+winkle* - also called periwinkle
+
+Littorina littorea
+
+Da
+
+strandsnegl
+
+Du
+
+alikruik, kreukel
+
+F
+
+bigorneau
+
+Ge
+
+Strandschnecke
+
+Gr
+
+-
+
+I
+
+chiocciola di mare
+
+N
+
+strandsnegl
+
+P
+
+burrié, burrelho
+
+S
+
+bígaro
